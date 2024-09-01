@@ -7,7 +7,7 @@ function App() {
       <input placeholder="counter or text here idfk"/> 
       <button>Testing live counter</button>
     </div>
-  );
+  );      
 }
 
 export default App; 
